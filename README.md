@@ -45,7 +45,7 @@ The commands are divided into three categories:
 ### Admin
 - `/autoconfig`: starts the automatic configuration of the bot.
 - `/settings`: shows the bot's configuration panel.
-- `/export <csv|json|txt>`: exports the log of entry and exit from the service of all users.
+- `/export <csv|json>`: exports the log of entry and exit from the service of all users.
 
 ## ToDo
 - [ ] Add the ability to have multiple service roles and be able to manage them separately.
