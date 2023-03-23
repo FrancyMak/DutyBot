@@ -48,6 +48,7 @@ The commands are divided into three categories:
 - `/export <csv|json>`: exports the log of entry and exit from the service of all users.
 
 ## ToDo
+- [ ] Make the bot multi-language
 - [ ] Add the ability to have multiple service roles and be able to manage them separately.
 - [ ] Decide which role to enter and exit the service with.
 - [ ] Create APIs to integrate the bot into other projects. 
