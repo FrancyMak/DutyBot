@@ -4,15 +4,15 @@ DutyBot is a fully interactive **discord** bot that allows you to keep track of 
 This bot was designed, initially, for the **GTA V RP Servers** but can be used for other purposes as well.
 
 ## Features
-- Entering and exiting the service
-- Viewing users in service
-- Authorize only certain roles to enter and exit the service
-- Forced management of entering and exiting the service
-- Manipulation of time spent in service
-- Viewing time spent in service
-- Adding and removing a role when entering and exiting the service
-- Ability to set up a **Manager** role that can manage the service
-- Log of entering and leaving the service for each user
+- Entering and exiting the duty
+- Viewing users in duty
+- Authorize only certain roles to enter and exit the duty
+- Forced management of entering and exiting the duty
+- Manipulation of time spent in duty
+- Viewing time spent in duty
+- Adding and removing a role when entering and exiting the duty
+- Ability to set up a **Manager** role that can manage the duty
+- Log of entering and leaving the duty for each user
 - Exporting the log in **.csv**, **.json** and **.txt** format
 
 ## How it works
@@ -30,27 +30,27 @@ The commands are divided into three categories:
 
 ### User
 - `/help`: shows information about the bot.
-- `/myhours`: shows the time spent in service.
+- `/myhours`: shows the time spent in duty.
 
 ### Manager
-- `/user add <@user>`: adds a user to the list of users on service.
+- `/user add <@user>`: adds a user to the list of users on duty.
 - `/user remove <@user>`: removes a user from the list of users on duty.
 - `/user dutytime <@user>`: shows the time spent on duty of a user.
 - `/time add <@user> <time>`: adds a time to a user's time spent on duty (in seconds).
-- `/time remove <@user> <time>`: removes a time to the time spent in service of a user (in seconds).
-- `/time set <@user> <time>`: sets the time spent in service of a user (in seconds).
-- `/time reset <@user>`: resets the time spent in service of a user.
-- `/log <@user>`: shows the log of a user's entry and exit from service.
+- `/time remove <@user> <time>`: removes a time to the time spent in duty of a user (in seconds).
+- `/time set <@user> <time>`: sets the time spent in duty of a user (in seconds).
+- `/time reset <@user>`: resets the time spent in duty of a user.
+- `/log <@user>`: shows the log of a user's entry and exit from duty.
 
 ### Admin
 - `/autoconfig`: starts the automatic configuration of the bot.
 - `/settings`: shows the bot's configuration panel.
-- `/export <csv|json>`: exports the log of entry and exit from the service of all users.
+- `/export <csv|json>`: exports the log of entry and exit from the duty of all users.
 
 ## ToDo
 - [ ] Make the bot multi-language
-- [ ] Add the ability to have multiple service roles and be able to manage them separately.
-- [ ] Decide which role to enter and exit the service with.
+- [ ] Add the ability to have multiple duty roles and be able to manage them separately.
+- [ ] Decide which role to enter and exit the duty with.
 - [ ] Create APIs to integrate the bot into other projects. 
 
 ## Support
