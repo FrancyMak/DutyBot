@@ -1,7 +1,7 @@
 # DutyBot
 DutyBot is a fully interactive **discord** bot that allows you to keep track of who is on duty and who is not. This is done from a panel where the users on duty are shown, with two buttons that allow entry and exit from duty. It uses the latest features in discord such as **timestamps** so you don't have to waste your time with useless cacola!
 
-This bot was designed, initially, for the **GTA V** RP Servers** but can be used for other purposes as well.
+This bot was designed, initially, for the **GTA V RP Servers** but can be used for other purposes as well.
 
 ## Features
 - Entering and exiting the service
