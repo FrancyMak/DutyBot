@@ -33,13 +33,16 @@ The commands are divided into three categories:
 - `/myhours`: shows the time spent in duty.
 
 ### Manager
+### User commands
 - `/user add <@user>`: adds a user to the list of users on duty.
 - `/user remove <@user>`: removes a user from the list of users on duty.
 - `/user dutytime <@user>`: shows the time spent on duty of a user.
+### Time commands
 - `/time add <@user> <time>`: adds a time to a user's time spent on duty (in seconds).
 - `/time remove <@user> <time>`: removes a time to the time spent in duty of a user (in seconds).
 - `/time set <@user> <time>`: sets the time spent in duty of a user (in seconds).
 - `/time reset <@user>`: resets the time spent in duty of a user.
+### Log commands
 - `/log <@user>`: shows the log of a user's entry and exit from duty.
 
 ### Admin
