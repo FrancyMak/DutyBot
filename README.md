@@ -55,3 +55,11 @@ The commands are divided into three categories:
 
 ## Support
 If you need support, found a bug, or want to suggest a new feature, you can contact me on my discord server: [Click here](https://discord.gg/7Rb4ZgeEt2).
+
+## Gallery
+![225356523-36905eb7-c9e9-412a-91ab-5ef21d89476e](https://user-images.githubusercontent.com/75610581/227705992-5434f02d-4d58-4935-bda7-9c4da5acfb73.png)
+![225356855-c3a43204-df0d-4d8d-ac75-24d9dbb741a0](https://user-images.githubusercontent.com/75610581/227705994-9cc9574f-ef0b-462c-8e45-e076a3d3c8df.png)
+![225355123-274d63ce-7bf0-4db8-a553-8b035022e1e0](https://user-images.githubusercontent.com/75610581/227705995-3e2ce513-9fa0-48c6-9a8f-d62a07947cf2.png)
+![225356629-65022a1c-43c3-482c-a5b0-7e07044a3b5a](https://user-images.githubusercontent.com/75610581/227705996-36eef64c-f831-4c18-82f5-95a14ae8e59a.png)
+![225355442-c5da541b-37f4-4bd6-a737-f3b1e28de357](https://user-images.githubusercontent.com/75610581/227705997-21c407ee-cbb5-496c-9a05-b67803483204.png)
+
