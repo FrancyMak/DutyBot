@@ -53,9 +53,6 @@ The commands are divided into three categories:
 - [ ] Decide which role to enter and exit the duty with.
 - [ ] Create APIs to integrate the bot into other projects. 
 
-## Support
-If you need support, found a bug, or want to suggest a new feature, you can contact me on my discord server: [Click here](https://discord.gg/7Rb4ZgeEt2).
-
 ## Gallery
 ![225356523-36905eb7-c9e9-412a-91ab-5ef21d89476e](https://user-images.githubusercontent.com/75610581/227705992-5434f02d-4d58-4935-bda7-9c4da5acfb73.png)
 ![225356855-c3a43204-df0d-4d8d-ac75-24d9dbb741a0](https://user-images.githubusercontent.com/75610581/227705994-9cc9574f-ef0b-462c-8e45-e076a3d3c8df.png)
